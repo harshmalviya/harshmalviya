@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @harshmalviya
+- 👀 I’m interested in web development using frameworks like React Js, Next Js, HTML5, CSS3, Vanilla Javascript. 
+- 🌱 Currently leaning backend to becone a fullstack developer.
+- 📫 You can reach me out by Emailing me: harshmalviya72@gmail.com
